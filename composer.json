@@ -1,0 +1,18 @@
+{
+    "name": "f/e5",
+    "type": "project",
+    "license": "gpl",
+    "autoload": {
+        "psr-4": {
+            "E5\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fernando Rodriguez",
+            "email": "fernando.rdzcrz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
